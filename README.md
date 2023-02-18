@@ -9,7 +9,7 @@ setup
 
    a) 1-create-bucket.sh (create s3)
    
-   b) 2-deploy.sh (deploy serverless app)
+   b) 2-deploy.sh (upload jar to s3 and deploy serverless app from s3)
    
    <pre>
    AmazonS3FullAccess
