@@ -5,7 +5,7 @@
 setup
 
 1. install aws cli
-2. create user with policies so that below screen can work
+2. create user with policies so that below scripts can work
 
    a) 1-create-bucket.sh (create s3)
    
