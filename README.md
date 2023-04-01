@@ -42,7 +42,7 @@ setup
 
 run test
 
-1. run '1-create-bucket.sh mvn', check s3 is created
+1. run '1-create-bucket.sh', check s3 is created
 
 2. run '2-deploy.sh', check stack is created in cloudFormation
 
