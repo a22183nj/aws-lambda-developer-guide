@@ -44,7 +44,7 @@ run test
 
 1. run '1-create-bucket.sh', check s3 is created
 
-2. run '2-deploy.sh', check stack is created in cloudFormation
+2. run '2-deploy.sh mvn', check stack is created in cloudFormation
 
 3. run '3-invoke.sh', check response from lambda with 'Handler'
 
